@@ -1,0 +1,52 @@
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.deps.json
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.runtimeconfig.json
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.AssemblyReference.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfoInputs.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfo.cs
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.CoreCompileInputs.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.CopyComplete
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\refint\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.genruntimeconfig.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\DogsApp\DogsApp.Core\obj\Debug\net6.0\ref\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.deps.json
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.runtimeconfig.json
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.AssemblyReference.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfoInputs.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfo.cs
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.CoreCompileInputs.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.CopyComplete
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\refint\DogsApp.Core.dll
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.pdb
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.genruntimeconfig.cache
+D:\2023-2024\12Б ИП\Izlojba-dogs-2023\03.DogsApp-Services\DogsApp\DogsApp.Core\obj\Debug\net6.0\ref\DogsApp.Core.dll
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.deps.json
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.runtimeconfig.json
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.dll
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Core.pdb
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.dll
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\bin\Debug\net6.0\DogsApp.Infrastructure.pdb
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.AssemblyInfo.cs
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.sourcelink.json
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp..1E6A055F.Up2Date
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.dll
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\refint\DogsApp.Core.dll
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.pdb
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\DogsApp.Core.genruntimeconfig.cache
+C:\Users\Student\Documents\12b dido bratmee\Dog\Dog\DogsApp\DogsApp.Core\obj\Debug\net6.0\ref\DogsApp.Core.dll
