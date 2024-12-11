@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D7146-90C7-4B53-8408-D16FC23C03E5}|..\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogsapp.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D7146-90C7-4B53-8408-D16FC23C03E5}|..\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogsapp.infrastructure\\data\\applicationbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D7146-90C7-4B53-8408-D16FC23C03E5}|..\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogsapp.infrastructure\\data\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D7146-90C7-4B53-8408-D16FC23C03E5}|..\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogsapp.infrastructure\\data\\entities\\breed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117D7146-90C7-4B53-8408-D16FC23C03E5}|..\\DogsApp.Infrastructure\\DogsApp.Infrastructure.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogsapp.infrastructure\\data\\entities\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\dog\\dogeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\dog\\dogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\dog\\dogdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\dog\\dogdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\dog\\dogdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\dog\\dogcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\dog\\dogallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\dog\\dogallviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\models\\breed\\breedpairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\models\\breed\\breedpairviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|c:\\users\\student\\desktop\\new folder\\dogproject\\dogswebapp\\dogswebapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18215CCB-13ED-4715-8BC9-0D28B45E563F}|DogsWebApp\\DogsWebApp.csproj|solutionrelative:dogswebapp\\controllers\\dogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAiwFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:27:18.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:27:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:25:28.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:24:30.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:21:40.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:21:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DogsWebApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DogsWebApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-10T10:18:19.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DogsWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DogsWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:12:15.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\DogsApp.Infrastructure\\Data\\Entities\\Dog.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\Dog.cs",
+              "RelativeToolTip": "..\\DogsApp.Infrastructure\\Data\\Entities\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Breed.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\Breed.cs",
+              "RelativeDocumentMoniker": "..\\DogsApp.Infrastructure\\Data\\Entities\\Breed.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\Breed.cs",
+              "RelativeToolTip": "..\\DogsApp.Infrastructure\\Data\\Entities\\Breed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:20.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\DogsApp.Infrastructure\\Data\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\DogsApp.Infrastructure\\Data\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:06:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Program.cs",
+              "RelativeToolTip": "DogsWebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:09:46.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DogsWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\appsettings.json",
+              "RelativeToolTip": "DogsWebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T10:05:44.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\ApplicationBuilderExtension.cs",
+              "RelativeDocumentMoniker": "..\\DogsApp.Infrastructure\\Data\\ApplicationBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\ApplicationBuilderExtension.cs",
+              "RelativeToolTip": "..\\DogsApp.Infrastructure\\Data\\ApplicationBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\DogsApp.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:22.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DogEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Dog\\DogEditViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogEditViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Dog\\DogEditViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DogDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Dog\\DogDetailsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:35.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DogDeleteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogDeleteViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Dog\\DogDeleteViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogDeleteViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Dog\\DogDeleteViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DogCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Dog\\DogCreateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:34.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DogAllViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogAllViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Dog\\DogAllViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Dog\\DogAllViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Dog\\DogAllViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:33.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BreedPairViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "RelativeToolTip": "DogsWebApp\\Models\\Breed\\BreedPairViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:32.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DogsWebApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DogController.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Controllers\\DogController.cs",
+              "RelativeDocumentMoniker": "DogsWebApp\\Controllers\\DogController.cs",
+              "ToolTip": "C:\\Users\\Student\\Desktop\\New folder\\DogProject\\DogsWebApp\\DogsWebApp\\Controllers\\DogController.cs",
+              "RelativeToolTip": "DogsWebApp\\Controllers\\DogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:10:27.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
